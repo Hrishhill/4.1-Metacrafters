@@ -137,6 +137,4 @@ This project draws upon the latest advancements in blockchain technology, with s
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
 
 ---
-**Necessary screenshot :**
-**Tak done in Ubuntu**
 
