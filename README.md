@@ -135,13 +135,21 @@ This project draws upon the latest advancements in blockchain technology, with s
 ## **License**
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+**Necessary Screenshot of task done in ubuntu **
 
 ![block1](https://github.com/user-attachments/assets/0c985b2f-dc02-4c64-87c3-afe245809fe2)
-![block6](https://github.com/user-attachments/assets/d9cfd7a6-aab6-4dac-8140-85e2a0dbb860)
-![block5](https://github.com/user-attachments/assets/1fd5e233-ecb3-4dd6-9120-3157e99b6e3c)
-![block4](https://github.com/user-attachments/assets/ca65eee2-285c-4e32-8c61-6aa5792873dc)
-![block3](https://github.com/user-attachments/assets/b0b1e8de-33a9-40f1-a318-75d92ee556c3)
+
 ![block2](https://github.com/user-attachments/assets/1af20f8b-2385-43a8-8f92-d44162b6c499)
+
+![block3](https://github.com/user-attachments/assets/b0b1e8de-33a9-40f1-a318-75d92ee556c3)
+
+![block4](https://github.com/user-attachments/assets/ca65eee2-285c-4e32-8c61-6aa5792873dc)
+
+![block5](https://github.com/user-attachments/assets/1fd5e233-ecb3-4dd6-9120-3157e99b6e3c)
+
+Metamask integration with local host
+
+![block6](https://github.com/user-attachments/assets/d9cfd7a6-aab6-4dac-8140-85e2a0dbb860)
 
 ---
 
