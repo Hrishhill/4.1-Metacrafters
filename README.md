@@ -135,7 +135,8 @@ This project draws upon the latest advancements in blockchain technology, with s
 ## **License**
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
-**Necessary Screenshot of task done in ubuntu **
+
+## **Necessary Screenshot of task done in ubuntu **
 
 ![block1](https://github.com/user-attachments/assets/0c985b2f-dc02-4c64-87c3-afe245809fe2)
 
@@ -147,7 +148,7 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ![block5](https://github.com/user-attachments/assets/1fd5e233-ecb3-4dd6-9120-3157e99b6e3c)
 
-Metamask integration with local host
+## **Metamask integration with local host**
 
 ![block6](https://github.com/user-attachments/assets/d9cfd7a6-aab6-4dac-8140-85e2a0dbb860)
 
